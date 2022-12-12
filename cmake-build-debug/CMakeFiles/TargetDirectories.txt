@@ -1,0 +1,3 @@
+/Users/alvinjenkins/Projects/airbenders_tasks/Gorev-6/cmake-build-debug/CMakeFiles/Gorev_6.dir
+/Users/alvinjenkins/Projects/airbenders_tasks/Gorev-6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alvinjenkins/Projects/airbenders_tasks/Gorev-6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
